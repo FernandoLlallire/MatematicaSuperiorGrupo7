@@ -1,0 +1,11 @@
+/home/fer/Documents/MatematicaSuperiorGrupo7/bin/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.deps.json
+/home/fer/Documents/MatematicaSuperiorGrupo7/bin/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.runtimeconfig.json
+/home/fer/Documents/MatematicaSuperiorGrupo7/bin/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.runtimeconfig.dev.json
+/home/fer/Documents/MatematicaSuperiorGrupo7/bin/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.dll
+/home/fer/Documents/MatematicaSuperiorGrupo7/bin/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.pdb
+/home/fer/Documents/MatematicaSuperiorGrupo7/obj/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.csprojAssemblyReference.cache
+/home/fer/Documents/MatematicaSuperiorGrupo7/obj/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.csproj.CoreCompileInputs.cache
+/home/fer/Documents/MatematicaSuperiorGrupo7/obj/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.AssemblyInfoInputs.cache
+/home/fer/Documents/MatematicaSuperiorGrupo7/obj/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.AssemblyInfo.cs
+/home/fer/Documents/MatematicaSuperiorGrupo7/obj/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.dll
+/home/fer/Documents/MatematicaSuperiorGrupo7/obj/Debug/netcoreapp2.2/MatematicaSuperiorGrupo7.pdb

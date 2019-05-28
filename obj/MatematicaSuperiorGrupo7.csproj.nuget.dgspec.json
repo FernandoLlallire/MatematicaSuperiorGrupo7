@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fer/Documents/MatematicaSuperiorGrupo7/MatematicaSuperiorGrupo7.csproj": {}
+  },
+  "projects": {
+    "/home/fer/Documents/MatematicaSuperiorGrupo7/MatematicaSuperiorGrupo7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fer/Documents/MatematicaSuperiorGrupo7/MatematicaSuperiorGrupo7.csproj",
+        "projectName": "MatematicaSuperiorGrupo7",
+        "projectPath": "/home/fer/Documents/MatematicaSuperiorGrupo7/MatematicaSuperiorGrupo7.csproj",
+        "packagesPath": "/home/fer/.nuget/packages/",
+        "outputPath": "/home/fer/Documents/MatematicaSuperiorGrupo7/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/fer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
