@@ -6,7 +6,8 @@ namespace MatematicaSuperiorGrupo7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SumaFasores sf = new SumaFasores();
+            sf.implementation();
         }
     }
 }
